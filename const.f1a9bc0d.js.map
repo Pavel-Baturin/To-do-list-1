@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/const.js"],"names":["DB_TO_DO_LIST"],"mappings":";AAAO,aAAA,OAAA,eAAA,QAAA,aAAA,CAAA,OAAA,IAAA,QAAA,mBAAA,EAAA,MAAMA,EAAgB,gBAAtB,QAAA,cAAA","file":"const.f1a9bc0d.js","sourceRoot":"../src","sourcesContent":["export const DB_TO_DO_LIST = \"db-to-do-list\";"]}
